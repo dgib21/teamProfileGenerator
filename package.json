@@ -1,0 +1,24 @@
+{
+  "name": "teamprofilegenerator",
+  "version": "1.0.0",
+  "description": "Command Line application that generates html",
+  "main": "Index.js",
+  "dependencies": {
+    "jest": "^26.4.2",
+    "require": "^2.4.20"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgib21/teamProfileGenerator.git"
+  },
+  "author": "Devin Gibson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dgib21/teamProfileGenerator/issues"
+  },
+  "homepage": "https://github.com/dgib21/teamProfileGenerator#readme"
+}
