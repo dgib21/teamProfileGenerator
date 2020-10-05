@@ -4,8 +4,8 @@
   "description": "Command Line application that generates html",
   "main": "Index.js",
   "dependencies": {
-    "jest": "^26.4.2",
-    "require": "^2.4.20"
+    "inquirer": "^7.3.3",
+    "jest": "^26.4.2"
   },
   "devDependencies": {},
   "scripts": {
