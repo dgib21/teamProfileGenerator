@@ -18,11 +18,11 @@ SO THAT I have quick access to their emails and GitHub profiles
 
 ## Installation:
 
-    Clone repo. Install node and requirer.
+    Install node, jest and requirer.
 
 ## Usage:
 
-    To quickly build a professional readme.
+    Display information for different types of employers. 
 
 ## Credits:
 
@@ -34,13 +34,10 @@ SO THAT I have quick access to their emails and GitHub profiles
     For more information about licenses, please visit:
     [License](https://opensource.org/licenses/MIT)
 
-## Contributing:
-    
-    undefined
 
 ## Tests:
 
-    undefined
+    Uses Jest to run a test suite of tests 
 
 ## Questions:
 
@@ -48,6 +45,4 @@ SO THAT I have quick access to their emails and GitHub profiles
     - [Github Profile](https://github.com/dgib21)
     - [Email](dgib21@hotmail.com)
 
-# My Finished Product
-
-NEED LINK TO VIDEO AND SCREENSHOT  
+ 
