@@ -39,10 +39,13 @@ SO THAT I have quick access to their emails and GitHub profiles
 
     Uses Jest to run a test suite of tests 
 
+    ![Alt text](./assets/images/testScreenShot.png?raw=true "Picture of Deployed App")
+
 ## Questions:
 
     For questions or concerns please use the following: 
     - [Github Profile](https://github.com/dgib21)
     - [Email](dgib21@hotmail.com)
+
 
  
